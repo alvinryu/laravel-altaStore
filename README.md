@@ -1,4 +1,4 @@
-# RESTAPI FOR ALTASTORE
+# RESTAPI for ALTASTORE
 
 Ini adalah project yang harus dikerjakan oleh siswa yang mengikuti
 program Advancing Career Program dari Alta Academy. 
