@@ -7,4 +7,5 @@ yang menjual berbagai barang seperti buku, barang elektronik,
 alat olahraga, dan lain-lain.
 
 ## Endpoints
-
+* [Register](register.md) : `POST /api/register/`
+* [Login](login.md) : `POST /api/login/`
